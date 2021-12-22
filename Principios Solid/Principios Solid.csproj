@@ -9,8 +9,6 @@
   <ItemGroup>
     <Folder Include="InterfaceSegregation\Bien\" />
     <Folder Include="InterfaceSegregation\Mal\" />
-    <Folder Include="LiskovSubstitution\Bien\" />
-    <Folder Include="LiskovSubstitution\Mal\" />
   </ItemGroup>
 
 </Project>
