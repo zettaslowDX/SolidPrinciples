@@ -6,9 +6,4 @@
     <RootNamespace>Principios_Solid</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="InterfaceSegregation\Bien\" />
-    <Folder Include="InterfaceSegregation\Mal\" />
-  </ItemGroup>
-
 </Project>
