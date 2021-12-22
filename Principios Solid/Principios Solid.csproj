@@ -6,4 +6,13 @@
     <RootNamespace>Principios_Solid</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="InterfaceSegregation\Bien\" />
+    <Folder Include="InterfaceSegregation\Mal\" />
+    <Folder Include="LiskovSubstitution\Bien\" />
+    <Folder Include="LiskovSubstitution\Mal\" />
+    <Folder Include="OpenClose\Bien\" />
+    <Folder Include="OpenClose\Mal\" />
+  </ItemGroup>
+
 </Project>

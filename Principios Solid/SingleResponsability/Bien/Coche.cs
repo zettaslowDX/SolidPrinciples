@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Principios_Solid.SingleResponsability.Bien
 {
-    internal class Coche
+    public class Coche
     {
+        String marca;
+        Coche(String marca) { this.marca = marca; }
+        String getMarcachoche() { return marca; }
     }
 }
