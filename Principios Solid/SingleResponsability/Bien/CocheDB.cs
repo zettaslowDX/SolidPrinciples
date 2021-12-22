@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Principios_Solid.SingleResponsability.Bien
 {
-    internal class CocheDB
+    public class CocheDB
     {
+        void guardarCocheDB (Coche coche) { }
+        void eliminarCocheDB(Coche coche) { }
     }
 }
